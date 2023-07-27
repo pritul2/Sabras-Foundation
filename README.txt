@@ -2,4 +2,4 @@
 
 #Live Website:   
 
-https://github.com/pritul2/Sabras-Foundation
+https://pritul2.github.io/Sabras-Foundation/
