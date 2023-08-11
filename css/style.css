@@ -582,7 +582,7 @@ h1, h2, h3, h4, h5, h6, figure {
     border: 1px solid red !important; }
   .qbootstrap-counters .qbootstrap-counter {
     font-size: 40px;
-    display: block;
+    /*display: block;*/
     color: black;
     width: 100%;
     font-weight: 400;
